@@ -6,8 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Coding%20Nojam&fontSize=90)
  
-![Chang min's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycm0926&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didckdals)](https://solved.ac/didckdals/)
+![Chang min's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycm0926&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didckdals)](https://solved.ac/didckdals/)
 
 # 💪Skills
 ### Platforms & Languages
