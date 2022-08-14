@@ -1,4 +1,3 @@
-<div align="center">
   
 # YANG-CHANG-MIN :smile:
   
@@ -26,4 +25,3 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ycm0926.github.io/)](https://ycm0926.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycn0926@gmail.com)](mailto:ycn0926@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yangyang09261@naver.com)](mailto:yangyang09261@naver.com)
-</div>
