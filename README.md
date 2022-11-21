@@ -1,6 +1,7 @@
   
 # YANG-CHANG-MIN :smile:
-  
+## 도전을 통해 성장하는 것을 즐기는, 개발 자체에 재미를 느끼는 개발자 지망생 입니다.
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fycm0926&count_bg=%23F891FF&title_bg=%23454545&icon=&icon_color=%23D5D5D5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Coding%20Nojam&fontSize=90)
