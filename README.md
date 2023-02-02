@@ -1,6 +1,6 @@
   
 # YANG-CHANG-MIN :smile:
-## 개발 자체에 재미를 느끼는 개발자 지망생 입니다.
+## 개발자 지망생 입니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fycm0926&count_bg=%23F891FF&title_bg=%23454545&icon=&icon_color=%23D5D5D5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
